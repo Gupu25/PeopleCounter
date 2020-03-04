@@ -1,2 +1,2 @@
 # PeopleCounter
-Basic People counting cod using Python and OpenCV
+Basic People Counter using Python and OpenCV
