@@ -18,7 +18,7 @@ cnt_down = 0
 
 #Fuente de video
 #cap = cv.VideoCapture(0)
-cap = cv.VideoCapture('TestVideo.avi')
+cap = cv.VideoCapture('Test Files/TestVideo.avi')
 #camera = PiCamera()
 ##camera.resolution = (160,120)
 ##camera.framerate = 5
